@@ -65,7 +65,9 @@ Para 'A' su valor en Binario es: 1000001
 
 #### ESTA ES LA PRIMERA ETAPA DE 3 ETAPAS PARA ESTE PROGRAMA.
 ### 1 (CODIGO FUENTE) --> 2 (iNTERFAZ DE USUARO) --> 3 (PROGRAMA EJECUTABLE PARA PC Y CELULAR) 
-#### ANEXO AVANCES de estas etapas en repositorio SRC
+## ANEXO AVANCES de estas etapas en repositorio SRC
+### PruebaGUI:01
+### PruebaGUI_02
 
 
 
